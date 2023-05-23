@@ -1,0 +1,51 @@
+---
+title: "Untitled"
+format: revealjs
+editor: visual
+---
+
+# Section 1
+
+## Sub-section 1
+
+::: {.incremental}
+
+-   point 1
+-   point 2
+-   point 3[^1]
+
+:::
+
+[^1]: A footnote
+
+## Sub-section 2
+
+Text.
+
+::: aside
+Some additional commentary of more peripheral interest.
+:::
+
+# Section 2
+
+## Subsection 2.1
+
+::: footer
+Custom footer text
+:::
+
+## Subsection 2.2
+
+::: notes
+Some notes here:
+
+-   A
+
+-   B
+
+-   C
+:::
+
+## Image
+
+![](https://images.unsplash.com/photo-1682685795463-0674c065f315?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D&auto=format&fit=crop&w=2052&q=80)
